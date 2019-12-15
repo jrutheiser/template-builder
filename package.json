@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Builds handlebars templates using components/layout",
   "main": "index.js",
+  "bin": "bin/index.js",
   "license": "MIT",
-  "bin": "./bin/index.js",
   "dependencies": {
     "glob": "^7.1.6",
     "handlebars": "^4.5.3",
