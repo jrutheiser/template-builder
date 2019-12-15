@@ -31,5 +31,5 @@ templateBuilder({
 ### CLI
 
 ```bash
-  $ template-builder --path=./templates --layout=default.hbs --output=./dist --buildComponents --watch
+$ template-builder --path=./templates --layout=default.hbs --output=./dist --buildComponents --watch
 ```
