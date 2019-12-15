@@ -24,7 +24,7 @@ templateBuilder({
   layout: 'default.hbs',       // layout file name
   output: './dist',            // relative path to output build directory
   watch: false,                // watch files for changes
-  componentsAsTemplates: false // build component files like it would templates
+  buildComponents: false       // build component files like templates (useful for testing components)
 });
 ```
 
