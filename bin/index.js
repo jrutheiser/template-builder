@@ -14,6 +14,6 @@ templateBuilder({
   path: path.resolve(cwd, templatesPath),
   layout: layoutFile,
   output: path.resolve(cwd, outputPath),
-  watch: arv.watch,
+  watch: argv.watch,
   buildComponents: argv.buildComponents
 });
