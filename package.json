@@ -9,7 +9,7 @@
     "glob": "^7.1.6",
     "handlebars": "^4.7.3",
     "handlebars-helper-repeat": "^2.0.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "nsfw": "^1.2.7",
     "yaml-front-matter": "^4.1.0"
   }
